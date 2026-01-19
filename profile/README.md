@@ -1,10 +1,4 @@
-# 🧝 SindarinSDK
-
-**Building the Sindarin programming language and ecosystem**
-
----
-
-## ✨ What is Sindarin?
+# ✨ What is Sindarin?
 
 **Sindarin (Sn)** is a statically-typed procedural programming language that compiles to C. It combines modern developer experience with native performance, featuring clean arrow-based syntax, powerful string interpolation, and built-in array operations.
 
