@@ -2,7 +2,7 @@ For more information please see: https://sindarinsdk.github.io/
 
 [![Compiler](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml)
 [![SDK](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml)
-[![Test](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml)
+[![Test Framework](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml)
 [![HTTP](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml)
 [![Collections](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml)
 [![Threads](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml)
