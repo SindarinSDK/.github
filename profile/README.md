@@ -1,1 +1,15 @@
 For more information please see: https://sindarinsdk.github.io/
+
+[![Compiler](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml)
+[![SDK](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml)
+[![Test](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml)
+[![HTTP](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml)
+[![Collections](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml)
+[![Threads](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml)
+[![JSON](https://github.com/SindarinSDK/sindarin-pkg-json/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-json/actions/workflows/ci.yml)
+[![cURL](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml)
+[![SQLite](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml)
+[![PostgreSQL](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml)
+[![MySQL](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml)
+[![MongoDB](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml)
+[![SQL Server](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml)
