@@ -14,3 +14,4 @@ For more information please see: https://sindarinsdk.github.io/
 [![MySQL](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml)
 [![MongoDB](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml)
 [![SQL Server](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml)
+[![Tensor](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml)
