@@ -8,6 +8,7 @@ For more information please see: https://sindarinsdk.github.io/
 [![Collections](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-collections/actions/workflows/ci.yml)
 [![Threads](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-threads/actions/workflows/ci.yml)
 [![JSON](https://github.com/SindarinSDK/sindarin-pkg-json/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-json/actions/workflows/ci.yml)
+[![YAML](https://github.com/SindarinSDK/sindarin-pkg-yaml/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-yaml/actions/workflows/ci.yml)
 [![cURL](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml)
 [![SQLite](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml)
 [![PostgreSQL](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml)
