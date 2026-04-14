@@ -8,7 +8,7 @@ Documentation: https://sindarinsdk.github.io/
 
 ### Core
 
-<table>
+<table width="100%">
 <colgroup>
 <col width="25%">
 <col width="45%">
@@ -48,7 +48,7 @@ Documentation: https://sindarinsdk.github.io/
 
 ### Language packages
 
-<table>
+<table width="100%">
 <colgroup>
 <col width="25%">
 <col width="45%">
@@ -94,7 +94,7 @@ Documentation: https://sindarinsdk.github.io/
 
 ### Network
 
-<table>
+<table width="100%">
 <colgroup>
 <col width="25%">
 <col width="45%">
@@ -128,7 +128,7 @@ Documentation: https://sindarinsdk.github.io/
 
 ### Databases
 
-<table>
+<table width="100%">
 <colgroup>
 <col width="25%">
 <col width="45%">
@@ -174,7 +174,7 @@ Documentation: https://sindarinsdk.github.io/
 
 ### Machine learning
 
-<table>
+<table width="100%">
 <colgroup>
 <col width="25%">
 <col width="45%">
