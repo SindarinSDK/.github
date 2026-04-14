@@ -7,12 +7,12 @@ Documentation: https://sindarinsdk.github.io/
 ## Build status
 
 ### Core
-| Repository | Description | CI | Release |
-|------------|-------------|----|---------|
-| [sindarin-compiler](https://github.com/SindarinSDK/sindarin-compiler) | Language compiler (`sn`) | [![Compiler](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/release.yml) |
+| Repository | Description | CI | Latest |
+|------------|-------------|----|--------|
+| [sindarin-compiler](https://github.com/SindarinSDK/sindarin-compiler) | Language compiler (`sn`) | [![Compiler](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-compiler/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-compiler?label=release)](https://github.com/SindarinSDK/sindarin-compiler/releases/latest) |
 | [sindarin-pkg-sdk](https://github.com/SindarinSDK/sindarin-pkg-sdk) | Standard library | [![SDK](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sdk/actions/workflows/ci.yml) | — |
 | [sindarin-pkg-test](https://github.com/SindarinSDK/sindarin-pkg-test) | Test framework | [![Test](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-test/actions/workflows/ci.yml) | — |
-| [sindarin-pkg-libs](https://github.com/SindarinSDK/sindarin-pkg-libs) | Prebuilt native binaries (linux/macos/windows) | — | [![Release](https://github.com/SindarinSDK/sindarin-pkg-libs/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-libs/actions/workflows/release.yml) |
+| [sindarin-pkg-libs](https://github.com/SindarinSDK/sindarin-pkg-libs) | Prebuilt native binaries (linux/macos/windows) | — | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-libs?label=release)](https://github.com/SindarinSDK/sindarin-pkg-libs/releases/latest) |
 
 ### Language packages
 | Repository | Description | CI |
@@ -24,28 +24,22 @@ Documentation: https://sindarinsdk.github.io/
 | [sindarin-pkg-logging](https://github.com/SindarinSDK/sindarin-pkg-logging) | Logging | [![Logging](https://github.com/SindarinSDK/sindarin-pkg-logging/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-logging/actions/workflows/ci.yml) |
 
 ### Network
-| Repository | Description | CI | Release |
-|------------|-------------|----|---------|
+| Repository | Description | CI | Latest |
+|------------|-------------|----|--------|
 | [sindarin-pkg-http](https://github.com/SindarinSDK/sindarin-pkg-http) | HTTP server | [![HTTP](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-http/actions/workflows/ci.yml) | — |
-| [sindarin-pkg-curl](https://github.com/SindarinSDK/sindarin-pkg-curl) | HTTP client | [![cURL](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/release.yml) |
-| [sindarin-pkg-net-quic](https://github.com/SindarinSDK/sindarin-pkg-net-quic) | QUIC protocol | [![QUIC](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/release.yml) |
+| [sindarin-pkg-curl](https://github.com/SindarinSDK/sindarin-pkg-curl) | HTTP client | [![cURL](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-curl/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-curl?label=release)](https://github.com/SindarinSDK/sindarin-pkg-curl/releases/latest) |
+| [sindarin-pkg-net-quic](https://github.com/SindarinSDK/sindarin-pkg-net-quic) | QUIC protocol | [![QUIC](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-net-quic/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-net-quic?label=release)](https://github.com/SindarinSDK/sindarin-pkg-net-quic/releases/latest) |
 
 ### Databases
-| Repository | Description | CI | Release |
-|------------|-------------|----|---------|
-| [sindarin-pkg-sqlite](https://github.com/SindarinSDK/sindarin-pkg-sqlite) | SQLite driver | [![SQLite](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/release.yml) |
-| [sindarin-pkg-postgres](https://github.com/SindarinSDK/sindarin-pkg-postgres) | PostgreSQL driver | [![PostgreSQL](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/release.yml) |
-| [sindarin-pkg-mysql](https://github.com/SindarinSDK/sindarin-pkg-mysql) | MySQL driver | [![MySQL](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/release.yml) |
-| [sindarin-pkg-mongo](https://github.com/SindarinSDK/sindarin-pkg-mongo) | MongoDB client | [![MongoDB](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/release.yml) |
-| [sindarin-pkg-sqlserver](https://github.com/SindarinSDK/sindarin-pkg-sqlserver) | SQL Server driver | [![SQL Server](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/release.yml) |
+| Repository | Description | CI | Latest |
+|------------|-------------|----|--------|
+| [sindarin-pkg-sqlite](https://github.com/SindarinSDK/sindarin-pkg-sqlite) | SQLite driver | [![SQLite](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-sqlite?label=release)](https://github.com/SindarinSDK/sindarin-pkg-sqlite/releases/latest) |
+| [sindarin-pkg-postgres](https://github.com/SindarinSDK/sindarin-pkg-postgres) | PostgreSQL driver | [![PostgreSQL](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-postgres/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-postgres?label=release)](https://github.com/SindarinSDK/sindarin-pkg-postgres/releases/latest) |
+| [sindarin-pkg-mysql](https://github.com/SindarinSDK/sindarin-pkg-mysql) | MySQL driver | [![MySQL](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mysql/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-mysql?label=release)](https://github.com/SindarinSDK/sindarin-pkg-mysql/releases/latest) |
+| [sindarin-pkg-mongo](https://github.com/SindarinSDK/sindarin-pkg-mongo) | MongoDB client | [![MongoDB](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-mongo/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-mongo?label=release)](https://github.com/SindarinSDK/sindarin-pkg-mongo/releases/latest) |
+| [sindarin-pkg-sqlserver](https://github.com/SindarinSDK/sindarin-pkg-sqlserver) | SQL Server driver | [![SQL Server](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-sqlserver?label=release)](https://github.com/SindarinSDK/sindarin-pkg-sqlserver/releases/latest) |
 
 ### Machine learning
-| Repository | Description | CI | Release |
-|------------|-------------|----|---------|
-| [sindarin-pkg-tensor](https://github.com/SindarinSDK/sindarin-pkg-tensor) | Tensor / ML primitives | [![Tensor](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml) | [![Release](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/release.yml) |
-
-### Tooling & infrastructure
-| Repository | Description | Status |
-|------------|-------------|--------|
-| [sindarin-pipelines](https://github.com/SindarinSDK/sindarin-pipelines) | Reusable CI pipelines | [![Pkg Test](https://github.com/SindarinSDK/sindarin-pipelines/actions/workflows/sindarin-pkg-test.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pipelines/actions/workflows/sindarin-pkg-test.yml) [![Lib Release](https://github.com/SindarinSDK/sindarin-pipelines/actions/workflows/sindarin-lib-release.yml/badge.svg?event=push)](https://github.com/SindarinSDK/sindarin-pipelines/actions/workflows/sindarin-lib-release.yml) |
-| [sindarin-template](https://github.com/SindarinSDK/sindarin-template) | Project template | [![CI](https://github.com/SindarinSDK/sindarin-template/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-template/actions/workflows/ci.yml) |
+| Repository | Description | CI | Latest |
+|------------|-------------|----|--------|
+| [sindarin-pkg-tensor](https://github.com/SindarinSDK/sindarin-pkg-tensor) | Tensor / ML primitives | [![Tensor](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml/badge.svg)](https://github.com/SindarinSDK/sindarin-pkg-tensor/actions/workflows/ci.yml) | [![Release](https://img.shields.io/github/v/release/SindarinSDK/sindarin-pkg-tensor?label=release)](https://github.com/SindarinSDK/sindarin-pkg-tensor/releases/latest) |
