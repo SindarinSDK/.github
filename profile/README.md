@@ -10,13 +10,13 @@ Documentation: https://sindarinsdk.github.io/
 
 <table>
 <colgroup>
-<col style="width:25%">
-<col style="width:45%">
-<col style="width:15%">
-<col style="width:15%">
+<col width="25%">
+<col width="45%">
+<col width="15%">
+<col width="15%">
 </colgroup>
 <thead>
-<tr><th>Repository</th><th>Description</th><th>CI</th><th>Release</th></tr>
+<tr><th width="25%">Repository</th><th width="45%">Description</th><th width="15%">CI</th><th width="15%">Release</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -50,13 +50,13 @@ Documentation: https://sindarinsdk.github.io/
 
 <table>
 <colgroup>
-<col style="width:25%">
-<col style="width:45%">
-<col style="width:15%">
-<col style="width:15%">
+<col width="25%">
+<col width="45%">
+<col width="15%">
+<col width="15%">
 </colgroup>
 <thead>
-<tr><th>Repository</th><th>Description</th><th>CI</th><th>Release</th></tr>
+<tr><th width="25%">Repository</th><th width="45%">Description</th><th width="15%">CI</th><th width="15%">Release</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -96,13 +96,13 @@ Documentation: https://sindarinsdk.github.io/
 
 <table>
 <colgroup>
-<col style="width:25%">
-<col style="width:45%">
-<col style="width:15%">
-<col style="width:15%">
+<col width="25%">
+<col width="45%">
+<col width="15%">
+<col width="15%">
 </colgroup>
 <thead>
-<tr><th>Repository</th><th>Description</th><th>CI</th><th>Release</th></tr>
+<tr><th width="25%">Repository</th><th width="45%">Description</th><th width="15%">CI</th><th width="15%">Release</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -130,13 +130,13 @@ Documentation: https://sindarinsdk.github.io/
 
 <table>
 <colgroup>
-<col style="width:25%">
-<col style="width:45%">
-<col style="width:15%">
-<col style="width:15%">
+<col width="25%">
+<col width="45%">
+<col width="15%">
+<col width="15%">
 </colgroup>
 <thead>
-<tr><th>Repository</th><th>Description</th><th>CI</th><th>Release</th></tr>
+<tr><th width="25%">Repository</th><th width="45%">Description</th><th width="15%">CI</th><th width="15%">Release</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -176,13 +176,13 @@ Documentation: https://sindarinsdk.github.io/
 
 <table>
 <colgroup>
-<col style="width:25%">
-<col style="width:45%">
-<col style="width:15%">
-<col style="width:15%">
+<col width="25%">
+<col width="45%">
+<col width="15%">
+<col width="15%">
 </colgroup>
 <thead>
-<tr><th>Repository</th><th>Description</th><th>CI</th><th>Release</th></tr>
+<tr><th width="25%">Repository</th><th width="45%">Description</th><th width="15%">CI</th><th width="15%">Release</th></tr>
 </thead>
 <tbody>
 <tr>
